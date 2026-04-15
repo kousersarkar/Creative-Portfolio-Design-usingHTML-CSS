@@ -267,7 +267,10 @@ h6{font-family: 'Oswald', sans-serif!important;}
     font-size: 13px;
     font-weight: 600;
 }
-.address-qr-right{padding: 35px 35px 0px 35px;}
+.address-qr-right { 
+	padding: 35px 35px 0px 35px;
+	margin-bottom: 30px;
+}
 .address-right-box {
     padding: 0px 30px;
 }
